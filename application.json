@@ -1,0 +1,56 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "theme",
+      "itemStyle": "text",
+      "logoAssetId": "",
+      "logoConfiguration": "logoOnly",
+      "navStyle": "sidebar",
+      "orientation": "side",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#E3DEFF",
+  "evaluationVersion": 2,
+  "icon": "heart",
+  "pages": [
+    {
+      "id": "Transfer Saldo",
+      "isDefault": true
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "theme",
+      "itemStyle": "text",
+      "logoAssetId": "",
+      "logoConfiguration": "logoOnly",
+      "navStyle": "sidebar",
+      "orientation": "side",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

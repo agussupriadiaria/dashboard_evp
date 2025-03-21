@@ -1,0 +1,4 @@
+SELECT 
+no AS No, req_date AS "Tanggal Request"
+
+FROM transfer_saldo_table LIMIT 10;

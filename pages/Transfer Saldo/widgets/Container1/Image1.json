@@ -1,0 +1,41 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 10,
+  "boxShadow": "none",
+  "defaultImage": "https://lh3.googleusercontent.com/pw/AP1GczN8oqNro2RdeTx3S1z9gh_YLujyG-WAHFUfNJiMy44fdxsXlTT5HoG6Nj3g5ihTIeUZ9Ojwyr-je78JD0XUBcIA9YM8fRjdE8MCVZphn1JcfjZq0qC0hicfIgVgTAZZ0ti--SArGnuldIiOSn8BSaan=w512-h512-s-no-gm?authuser=0",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "u8gcjzzosa",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 11,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 12,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 21,
+  "originalTopRow": 10,
+  "parentColumnSpace": 20.25,
+  "parentId": "qmq83hche4",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 5,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "mx336led2g",
+  "widgetName": "Image1"
+}
